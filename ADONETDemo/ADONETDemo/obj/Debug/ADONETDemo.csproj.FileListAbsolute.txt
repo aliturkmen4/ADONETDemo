@@ -1,0 +1,10 @@
+C:\Users\alitu\OneDrive\Masaüstü\ADONETDemo\ADONETDemo\ADONETDemo\bin\Debug\ADONETDemo.exe.config
+C:\Users\alitu\OneDrive\Masaüstü\ADONETDemo\ADONETDemo\ADONETDemo\bin\Debug\ADONETDemo.exe
+C:\Users\alitu\OneDrive\Masaüstü\ADONETDemo\ADONETDemo\ADONETDemo\bin\Debug\ADONETDemo.pdb
+C:\Users\alitu\OneDrive\Masaüstü\ADONETDemo\ADONETDemo\ADONETDemo\obj\Debug\ADONETDemo.csproj.AssemblyReference.cache
+C:\Users\alitu\OneDrive\Masaüstü\ADONETDemo\ADONETDemo\ADONETDemo\obj\Debug\ADONETDemo.Form1.resources
+C:\Users\alitu\OneDrive\Masaüstü\ADONETDemo\ADONETDemo\ADONETDemo\obj\Debug\ADONETDemo.Properties.Resources.resources
+C:\Users\alitu\OneDrive\Masaüstü\ADONETDemo\ADONETDemo\ADONETDemo\obj\Debug\ADONETDemo.csproj.GenerateResource.cache
+C:\Users\alitu\OneDrive\Masaüstü\ADONETDemo\ADONETDemo\ADONETDemo\obj\Debug\ADONETDemo.csproj.CoreCompileInputs.cache
+C:\Users\alitu\OneDrive\Masaüstü\ADONETDemo\ADONETDemo\ADONETDemo\obj\Debug\ADONETDemo.exe
+C:\Users\alitu\OneDrive\Masaüstü\ADONETDemo\ADONETDemo\ADONETDemo\obj\Debug\ADONETDemo.pdb
